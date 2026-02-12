@@ -51,3 +51,32 @@
 
 ##
 **Notes from Lead/Instructor:** N/A
+
+***
+
+# Day 3
+## Date: 2/12/2026   
+   
+## [Lucas]   
+**What I did:** Found bugs in Gabe and Marcus' games.
+**What I'm doing:** Start writing the QA Summary Report.
+**Blocked?** No
+   
+## [Parth]   
+**What I did:** Wrote 9 bug reports for bugs found by Jack, Biruk, and Lucas.
+**What I'm doing:** Continue writing bug reports and helping write the QA Summary.
+**Blocked?** No   
+   
+## [Biruk]   
+**What I did:** Helped find bugs for the BlackJack game.
+**What I'm doing:** Find bugs for nayans game and help write the QA Summary.
+**Blocked?** No
+   
+## [Jack]   
+**What I did:** Found bugs in Nayans game.
+**What I'm doing:** Continue finding bugs in all of the other games.
+**Blocked?** No   
+
+##
+**Notes from Lead/Instructor:** N/A
+
